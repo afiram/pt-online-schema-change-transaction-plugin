@@ -1,5 +1,7 @@
 # pt-online-schema-change-transaction-plugin
 
+https://www.percona.com/doc/percona-toolkit/2.2/pt-online-schema-change.html
+
 ## Usage
 
 ```sh
