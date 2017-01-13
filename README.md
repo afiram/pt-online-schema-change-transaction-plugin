@@ -1,10 +1,10 @@
-# pt-online-schema-change-fast-rebuild-constraints
+# pt-online-schema-change-transaction-plugin
 
 ## Usage
 
 ```sh
 pt-online-schema-change ... \
   --alter-foreign-keys-method=rebuild_constraints \
-  --plugin pt-online-schema-change-fast-rebuild-constraints.pl \
+  --plugin pt-osc-transaction-plugin.pl \
   ...
 ```
