@@ -2,6 +2,8 @@
 
 https://www.percona.com/doc/percona-toolkit/2.2/pt-online-schema-change.html
 
+* use transaction in [before_swap_tables - after_update_foreign_keys]
+
 ## Usage
 
 ```sh
